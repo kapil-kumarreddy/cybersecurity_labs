@@ -1,4 +1,4 @@
-## ** phase_1**: what_is_the_shelL
+```## ** phase_1**: what_is_the_shelL
 ## **book**:The linux command line-- William shots
 ## **Objective:** Understand what the shell is, how the terminal emulator works, the shell prompt, and basic Linux commands.
 
@@ -51,7 +51,7 @@ Su Mo Tu We Th Fr Sa
 - input:
   `` df``  
 - output:
-``Filesystem     1K-blocks     Used Available Use% Mounted on
+`Filesystem     1K-blocks     Used Available Use% Mounted on
 udev              942560        0    942560   0% /dev
 tmpfs             202104     1012    201092   1% /run
 /dev/sda1       82083148 22103864  55763736  29% /
@@ -60,7 +60,7 @@ tmpfs               5120        0      5120   0% /run/lock
 tmpfs            1010520       12   1010508   1% /tmp
 tmpfs               1024        0      1024   0% /run/credentials/getty@tty1.service
 tmpfs             202100      124    201976   1% /run/user/1000
-tmpfs               1024        0      1024   0% /run/credentials/systemd-journald.service``
+tmpfs               1024        0      1024   0% /run/credentials/systemd-journald.service`
 ### **Cybersecurity Relevance**
 * Low disk space can cause:
 * log loss  
@@ -146,5 +146,6 @@ Swap:         976556           0      976556```
 * Helpful when retracing attacker movement from subdirectories upward.
 * Useful for quickly navigating during incident response.
 
-```that's it
+that's it```
+
 
