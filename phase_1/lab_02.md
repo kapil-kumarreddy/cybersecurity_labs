@@ -1,4 +1,4 @@
-##phase_1  lab_02##
+```##phase_1  lab_02##
 **boosk**:The linux command line-- William shots
 **exploring the system**
 **file system basics**
@@ -85,3 +85,4 @@ lab_01.md: Unicode text, UTF-8 text, with very long lines (365)
 ##output:
    ```starts the contents of the file by open a tect editor```
    **note** : close by clicking ctrl+z
+```
