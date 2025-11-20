@@ -37,7 +37,7 @@ which is called shell prompt.
 - output:
   ``` November 2025      
 Su Mo Tu We Th Fr Sa  
-                   1  
+8                   1  
  2  3  4  5  6  7  8  
  9 10 11 12 13 14 15  
 16 17 18 19 20 21 22  
@@ -51,7 +51,7 @@ Su Mo Tu We Th Fr Sa
 - input:
   `` df``  
 - output:
-```Filesystem     1K-blocks     Used Available Use% Mounted on
+``Filesystem     1K-blocks     Used Available Use% Mounted on
 udev              942560        0    942560   0% /dev
 tmpfs             202104     1012    201092   1% /run
 /dev/sda1       82083148 22103864  55763736  29% /
@@ -60,7 +60,7 @@ tmpfs               5120        0      5120   0% /run/lock
 tmpfs            1010520       12   1010508   1% /tmp
 tmpfs               1024        0      1024   0% /run/credentials/getty@tty1.service
 tmpfs             202100      124    201976   1% /run/user/1000
-tmpfs               1024        0      1024   0% /run/credentials/systemd-journald.service```
+tmpfs               1024        0      1024   0% /run/credentials/systemd-journald.service``
 ### **Cybersecurity Relevance**
 * Low disk space can cause:
 * log loss  
