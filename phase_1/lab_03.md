@@ -1,4 +1,4 @@
-## phase_1  lab_03##
+```## phase_1  lab_03##
 **book**:The linux command line-- William shots
 **permission**
 ### Access rights to files and directories are defined in terms of read access, write, access, and execution access. If we look at the output of the ls command, we can get some clue as to how this is implemented
@@ -315,3 +315,4 @@ It does not need the root password because sudo is designed to give controlled, 
 - Sudden password changes in logs may indicate account compromise.
 - Proper use of passwd ensures only authorized users modify credentials.
    **We will continue with the next lab.**
+```
