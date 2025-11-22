@@ -159,12 +159,12 @@
 * The system applies the **umask value**, usually **022**
 * Umask **022** removes the write bit from *group* and *others*
 
-```
+
 Default: 666
 Umask :  022
 ----------------
 Result: 644
-```
+
 --> 6 = rw- → owner has read + write
 --> 4 = r-- → group has read-only
 --> 4 = r-- → others have read-only
@@ -184,12 +184,11 @@ Result: 644
 * Default file permissions start as 666 → rw-rw-rw-
 * The system applies the umask 555
 * Umask 555 removes the read and execute bits for owner, group, and others
-```
+
 Default: 666
 Umask :  555
 ----------------
 Result: 222
-```
 
 ---> 2 = -w- → owner has write only
 ---→ 2 = -w- → group has write only
