@@ -1,3 +1,4 @@
+```
 ## phase_1, lab_04.md
 **book**: Concepts from TLDP + man pages + Linux fundamentals
 **objective**: Understand user accounts, group memberships, privilege separation, and commands to manage
@@ -83,3 +84,4 @@
 
 * Misconfigured group membership causes privilege escalation.
 * Group permissions often determine access to logs, configs, and binaries.
+```
