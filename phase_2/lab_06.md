@@ -294,4 +294,9 @@ IP addresses
 ""it opens a text editor where we can map our own ip address to domain name"
 
 
+
+**Understanding IP addressing, MAC spoofing, DNS resolution, and interface control
+ is critical for penetration testing and network defense. Attackers rely on these
+ techniques to stay anonymous, bypass controls, and enumerate targets,
+ while defenders use them to detect anomalies and misconfigurations.**
 ```
