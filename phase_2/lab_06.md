@@ -1,3 +1,4 @@
+```
 ## phase_2 lab_06 : Analyzing and Managing Networks
 **book**: " Occupytheweb - Linux Basics for Hackers"
 **Objective**: Learn basic network discovery and interface management commands to analyze and configure network settings for cybersecurity tasks.
@@ -293,3 +294,4 @@ IP addresses
 ""it opens a text editor where we can map our own ip address to domain name"
 
 
+```
