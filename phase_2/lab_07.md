@@ -133,7 +133,7 @@ MiB Swap:    953.7 total,    943.6 free,     10.1 used.    939.6 avail Mem
 | **SIGINT**  | 2      | Interrupt signal; a soft kill that may not always stop the process.    |
 | **SIGQUIT** | 3      | Terminates the process and creates a memory dump file named `core`.    |
 | **SIGTERM** | 15     | Default kill signal; asks the process to terminate gracefully.         |
-| **SIGKILL** | 9      | Forcefully kills the process and clears its resources via `/dev/null`. |
+| **SIGKILL** | 9      | Forcefully kills the process and cannot be ignored, or blocked |
  
 ===> input:
 ``
